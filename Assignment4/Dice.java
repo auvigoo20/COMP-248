@@ -1,6 +1,6 @@
 // -------------------------------------------------------
 // Assignment 4
-// Written by: Auvigoo Ahmed 40128901
+// Written by: Auvigoo Ahmed
 // For COMP 248 Section P - Fall 2019
 // December 2nd 2019
 // -------------------------------------------------------
